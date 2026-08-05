@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shouriemansi/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/shouriemansi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/shouriemansi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shouriemansi/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shouriemansi/LeetCode/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shouriemansi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
