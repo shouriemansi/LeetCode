@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shouriemansi/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/shouriemansi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shouriemansi/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shouriemansi/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
