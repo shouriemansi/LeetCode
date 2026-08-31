@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/shouriemansi/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/shouriemansi/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shouriemansi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shouriemansi/LeetCode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/shouriemansi/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shouriemansi/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shouriemansi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shouriemansi/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shouriemansi/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shouriemansi/LeetCode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shouriemansi/LeetCode/tree/master/0009-palindrome-number) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shouriemansi/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shouriemansi/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shouriemansi/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
