@@ -85,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shouriemansi/LeetCode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shouriemansi/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shouriemansi/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
