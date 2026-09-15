@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shouriemansi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shouriemansi/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shouriemansi/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shouriemansi/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shouriemansi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/shouriemansi/LeetCode/tree/master/0344-reverse-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shouriemansi/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
 | ------- |
