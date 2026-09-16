@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shouriemansi/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shouriemansi/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shouriemansi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shouriemansi/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/shouriemansi/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/shouriemansi/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shouriemansi/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shouriemansi/LeetCode/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shouriemansi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
