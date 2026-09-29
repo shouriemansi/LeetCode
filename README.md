@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shouriemansi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shouriemansi/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shouriemansi/LeetCode/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/shouriemansi/LeetCode/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shouriemansi/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
