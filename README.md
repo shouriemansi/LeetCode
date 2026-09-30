@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shouriemansi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shouriemansi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shouriemansi/LeetCode/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/shouriemansi/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shouriemansi/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/shouriemansi/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/shouriemansi/LeetCode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/shouriemansi/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shouriemansi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shouriemansi/LeetCode/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/shouriemansi/LeetCode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
