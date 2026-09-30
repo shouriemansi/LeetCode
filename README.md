@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shouriemansi/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/shouriemansi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/shouriemansi/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shouriemansi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shouriemansi/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shouriemansi/LeetCode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/shouriemansi/LeetCode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shouriemansi/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shouriemansi/LeetCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shouriemansi/LeetCode/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/shouriemansi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shouriemansi/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shouriemansi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/shouriemansi/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/shouriemansi/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/shouriemansi/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
