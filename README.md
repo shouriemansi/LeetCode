@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shouriemansi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shouriemansi/LeetCode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/shouriemansi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/shouriemansi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shouriemansi/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shouriemansi/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shouriemansi/LeetCode/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shouriemansi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
