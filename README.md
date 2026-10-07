@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shouriemansi/LeetCode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/shouriemansi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shouriemansi/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shouriemansi/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shouriemansi/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shouriemansi/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shouriemansi/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shouriemansi/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
