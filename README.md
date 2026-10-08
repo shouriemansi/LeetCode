@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shouriemansi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shouriemansi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/shouriemansi/LeetCode/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shouriemansi/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shouriemansi/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/shouriemansi/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/shouriemansi/LeetCode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shouriemansi/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shouriemansi/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/shouriemansi/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shouriemansi/LeetCode/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shouriemansi/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
