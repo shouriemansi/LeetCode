@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shouriemansi/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/shouriemansi/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shouriemansi/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3174-clear-digits](https://github.com/shouriemansi/LeetCode/tree/master/3174-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shouriemansi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shouriemansi/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shouriemansi/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3174-clear-digits](https://github.com/shouriemansi/LeetCode/tree/master/3174-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shouriemansi/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/shouriemansi/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shouriemansi/LeetCode/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/shouriemansi/LeetCode/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
