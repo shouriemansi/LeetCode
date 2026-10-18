@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shouriemansi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shouriemansi/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shouriemansi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/shouriemansi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shouriemansi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shouriemansi/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shouriemansi/LeetCode/tree/master/0137-single-number-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shouriemansi/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shouriemansi/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shouriemansi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shouriemansi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shouriemansi/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/shouriemansi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shouriemansi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shouriemansi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shouriemansi/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shouriemansi/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shouriemansi/LeetCode/tree/master/0242-valid-anagram) |
