@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shouriemansi/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shouriemansi/LeetCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shouriemansi/LeetCode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/shouriemansi/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/shouriemansi/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shouriemansi/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shouriemansi/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/shouriemansi/LeetCode/tree/master/1051-height-checker) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shouriemansi/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
